@@ -1,4 +1,4 @@
-# from itertools import product
+from itertools import product
 from django.shortcuts import render
 import re
 from django.shortcuts import get_object_or_404
